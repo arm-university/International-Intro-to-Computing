@@ -14,9 +14,9 @@ This course introduces learners to the key STEM topics of physical computing, se
 - Learners will collaborate successfully with their peers and demonstrate effective communication as well as efficient and effective teamwork
 
 ## Resource Structure
-Grade 5 – Introduction to micro:bit - 40 lessons
-Grade 6 – IoT and Robotics - 40 lessons
-Grade 7 -  micro:python – 40 lessons
+- Grade 5 – Introduction to micro:bit - 40 lessons
+- Grade 6 – IoT and Robotics - 40 lessons
+- Grade 7 -  micro:python – 40 lessons
 
 ## License
 You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/International-Intro-to-Computing/blob/main/Licence) for the complete license.
