@@ -1,4 +1,4 @@
-# International-Intro-to-Computing
+# Computing for International Schools
 
 This is a complete curriculum designed for schools internationally and covering Grades 5 through 7. Each grade includes 40 hours of teaching and learning content and uses the Arm School Program’s project-based learning pedagogical approach. The course is based on the use of micro:bits and MicroPython.
 
