@@ -1,6 +1,6 @@
 # Computing for International Schools
 
-This is a complete curriculum designed for schools internationally and covering Grades 5 through 7. Each grade includes 40 hours of teaching and learning content and uses the Arm School Program’s project-based learning pedagogical approach. The course is based on the use of micro:bits and MicroPython.
+This is a complete curriculum designed for schools internationally and covering Grades 5 through 7. Each grade includes 35-40 hours of teaching and learning content and uses the Arm School Program’s project-based learning pedagogical approach. The course is based on the use of micro:bits and MicroPython.
 
 ## [Download here](https://github.com/arm-university/International-Intro-to-Computing/archive/refs/heads/main.zip)
 
@@ -16,7 +16,7 @@ This course introduces learners to the key STEM topics of physical computing, se
 ## Resource Structure
 - Grade 5 – Introduction to micro:bit - 40 lessons
 - Grade 6 – IoT and Robotics - 40 lessons
-- Grade 7 -  micro:python – 40 lessons
+- Grade 7 -  micro:python – 34 lessons
 
 ## License
 You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/International-Intro-to-Computing/blob/main/Licence.md) for the complete license.
