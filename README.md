@@ -6,7 +6,7 @@ This is a complete curriculum designed for schools internationally and covering 
 
 ## Resource Aim
 This course introduces learners to the key STEM topics of physical computing, sensors, programming and Internet of Things (IoT) through project-based learning. Learners will be immersed in a series of projects which involve rapid team-based development of a solution to meet specified criteria.  
-
+ 
 ## Learning Outcomes
 - Learners will demonstrate relevant and comprehensive knowledge and understanding of the concepts and principals involved in the course
 - Learners will effectively apply the principles and concepts using sustained analytical and evaluative thinking and practice in order to solve a range of problems
